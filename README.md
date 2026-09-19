@@ -60,7 +60,7 @@ The dataset contains 25,000 records and 29 columns, including:
 1. Clone this repository:
 
 ```
-git clone https://github.com/your-username/credit-score-classification-local-pipeline.git
+git clone https://github.com/feliceeeee/Credit_Score_Classification_Local_Pipeline.git
 ```
 
 2. Install the required libraries:
